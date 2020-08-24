@@ -19,7 +19,7 @@ php composer.phar require --prefer-dist "elmys/status-filter-behave" "*"
 or add
 
 ```json
-"elmys/status-filter-behave"
+"elmys/status-filter-behave" : "*"
 ```
 
 to the require section of your application's `composer.json` file.

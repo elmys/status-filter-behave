@@ -15,11 +15,12 @@
         }
     ],
     "require": {
+        "php": ">=7.0",
         "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
-            "elmys\\yii2\\statusfilterbehave\\": ""
+            "elmys\\statusfilterbehave\\": ""
         }
     }
 }
