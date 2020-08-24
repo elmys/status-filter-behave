@@ -1,0 +1,25 @@
+{
+    "name": "elmys/status-filter-behave",
+    "description": "Typical helper for show status-drop-list and validate sequence of them",
+    "keywords": ["yii2", "status", "list", "dropdown", "permissions", "validate"],
+    "type": "yii2-extension",
+    "license": "GPL-3.0-only",
+    "support": {
+        "source": "https://github.com/elmys/status-filter-behave",
+        "issues": "https://github.com/elmys/status-filter-behave/issues"
+    },
+    "authors": [
+        {
+            "name": "elmys",
+            "homepage": "https://github.com/elmys"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "elmys\\yii2\\statusfilterbehave\\": ""
+        }
+    }
+}
