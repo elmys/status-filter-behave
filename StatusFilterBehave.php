@@ -6,7 +6,7 @@
  * @license https://opensource.org/licenses/GPL-3.0 GPL
  */
 
-namespace elmys\helpers\statusfilterbehave;
+namespace elmys\yii2\statusfilterbehave;
 
 use yii\base\Behavior;
 use yii\db\ActiveRecord;
