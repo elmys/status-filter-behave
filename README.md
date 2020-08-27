@@ -4,6 +4,7 @@ Typical helper for show status-drop-list and validate sequence of them
 Why it's need for you
 -
 Extension filter statuses for model by array of allowed statuses by sequence or/and permissons.
+Also work prevalidation.
 Your model should has additional table of status history and corresponding relation methods.
 
 Installation
