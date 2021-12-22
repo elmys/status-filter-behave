@@ -4,6 +4,7 @@
     "keywords": ["yii2", "status", "list", "dropdown", "permissions", "validate"],
     "type": "yii2-extension",
     "license": "GPL-3.0-only",
+    "minimum-stability": "dev",
     "support": {
         "source": "https://github.com/elmys/status-filter-behave",
         "issues": "https://github.com/elmys/status-filter-behave/issues"
