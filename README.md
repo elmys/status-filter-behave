@@ -14,13 +14,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 * Either run
 
 ```
-php composer.phar require --prefer-dist "elmys/status-filter-behave" "*"
+php composer.phar require --prefer-dist "elmys/status-filter-behave" : "master@dev"
 ```
 
 or add
 
-```json
-"elmys/status-filter-behave" : "*"
+```
+"elmys/status-filter-behave" : "master@dev"
 ```
 
 to the require section of your application's `composer.json` file.
